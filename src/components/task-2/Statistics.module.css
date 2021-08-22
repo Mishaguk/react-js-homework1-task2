@@ -1,0 +1,29 @@
+li {
+	list-style-type: none;
+	font-size: 0;
+
+}
+ .statistics {
+	
+	border: 3px solid grey;
+	
+	width: 160px;
+	border-collapse: separate;
+	
+ }
+span {
+	border: 3px solid black;
+ }
+
+
+.label {
+   margin-top: 50px;
+   font-size: x-large;
+   background-color: turquoise;
+}
+.percentage {
+    padding-left: 50px;
+	font-size: x-large;
+	background-color: deeppink;
+}	 
+
